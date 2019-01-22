@@ -1,0 +1,2 @@
+This is simple neural network written in c++ which works as a XOR gate.
+It has 3 layers and 5 neurons.
